@@ -1,0 +1,410 @@
+2024-08-17 05:34:35,183 - INFO - Source directory: classfier
+2024-08-17 05:34:35,183 - INFO - Target directories 'training_set' and 'testing_set' created or already exist.
+2024-08-17 05:34:35,183 - INFO - Image processing completed.
+2024-08-17 05:38:36,688 - INFO - Source directory: classfier
+2024-08-17 05:38:36,688 - INFO - Target directories 'training_set' and 'testing_set' created or already exist.
+2024-08-17 05:38:36,688 - INFO - No images were found to move.
+2024-08-17 05:44:57,350 - ERROR - Source directory 'classifier' does not exist.
+2024-08-17 05:55:57,860 - INFO - Source directory: classifier
+2024-08-17 05:55:57,860 - INFO - Target directories 'training_set' and 'testing_set' created or already exist.
+2024-08-17 05:55:57,861 - INFO - Processing file: 11119.jpg
+2024-08-17 05:55:57,861 - DEBUG - Source path: classifier/11119.jpg
+2024-08-17 05:55:57,861 - DEBUG - Destination path: training_set/11119.jpg
+2024-08-17 05:55:57,861 - INFO - Moved '11119.jpg' to 'training_set'
+2024-08-17 05:55:57,861 - INFO - Processing file: 11529.jpg
+2024-08-17 05:55:57,861 - DEBUG - Source path: classifier/11529.jpg
+2024-08-17 05:55:57,861 - DEBUG - Destination path: training_set/11529.jpg
+2024-08-17 05:55:57,861 - INFO - Moved '11529.jpg' to 'training_set'
+2024-08-17 05:55:57,861 - INFO - Processing file: 11194.jpg
+2024-08-17 05:55:57,861 - DEBUG - Source path: classifier/11194.jpg
+2024-08-17 05:55:57,861 - DEBUG - Destination path: training_set/11194.jpg
+2024-08-17 05:55:57,861 - INFO - Moved '11194.jpg' to 'training_set'
+2024-08-17 05:55:57,861 - INFO - Processing file: 11137.jpg
+2024-08-17 05:55:57,862 - DEBUG - Source path: classifier/11137.jpg
+2024-08-17 05:55:57,862 - DEBUG - Destination path: training_set/11137.jpg
+2024-08-17 05:55:57,862 - INFO - Moved '11137.jpg' to 'training_set'
+2024-08-17 05:55:57,862 - INFO - Processing file: 11486.jpg
+2024-08-17 05:55:57,862 - DEBUG - Source path: classifier/11486.jpg
+2024-08-17 05:55:57,862 - DEBUG - Destination path: training_set/11486.jpg
+2024-08-17 05:55:57,862 - INFO - Moved '11486.jpg' to 'training_set'
+2024-08-17 05:55:57,862 - INFO - Processing file: 11547.jpg
+2024-08-17 05:55:57,862 - DEBUG - Source path: classifier/11547.jpg
+2024-08-17 05:55:57,862 - DEBUG - Destination path: training_set/11547.jpg
+2024-08-17 05:55:57,862 - INFO - Moved '11547.jpg' to 'training_set'
+2024-08-17 05:55:57,862 - INFO - Processing file: 11191.jpg
+2024-08-17 05:55:57,862 - DEBUG - Source path: classifier/11191.jpg
+2024-08-17 05:55:57,862 - DEBUG - Destination path: training_set/11191.jpg
+2024-08-17 05:55:57,862 - INFO - Moved '11191.jpg' to 'training_set'
+2024-08-17 05:55:57,863 - INFO - Processing file: 11533.jpg
+2024-08-17 05:55:57,863 - DEBUG - Source path: classifier/11533.jpg
+2024-08-17 05:55:57,863 - DEBUG - Destination path: training_set/11533.jpg
+2024-08-17 05:55:57,863 - INFO - Moved '11533.jpg' to 'training_set'
+2024-08-17 05:55:57,863 - INFO - Processing file: 11581.jpg
+2024-08-17 05:55:57,863 - DEBUG - Source path: classifier/11581.jpg
+2024-08-17 05:55:57,863 - DEBUG - Destination path: training_set/11581.jpg
+2024-08-17 05:55:57,863 - INFO - Moved '11581.jpg' to 'training_set'
+2024-08-17 05:55:57,863 - INFO - Processing file: 11571.jpg
+2024-08-17 05:55:57,863 - DEBUG - Source path: classifier/11571.jpg
+2024-08-17 05:55:57,863 - DEBUG - Destination path: training_set/11571.jpg
+2024-08-17 05:55:57,863 - INFO - Moved '11571.jpg' to 'training_set'
+2024-08-17 05:55:57,863 - INFO - Processing file: 11175.jpg
+2024-08-17 05:55:57,863 - DEBUG - Source path: classifier/11175.jpg
+2024-08-17 05:55:57,864 - DEBUG - Destination path: training_set/11175.jpg
+2024-08-17 05:55:57,864 - INFO - Moved '11175.jpg' to 'training_set'
+2024-08-17 05:55:57,864 - INFO - Processing file: 11565.jpg
+2024-08-17 05:55:57,864 - DEBUG - Source path: classifier/11565.jpg
+2024-08-17 05:55:57,864 - DEBUG - Destination path: training_set/11565.jpg
+2024-08-17 05:55:57,864 - INFO - Moved '11565.jpg' to 'training_set'
+2024-08-17 05:55:57,864 - INFO - Processing file: 11222.jpg
+2024-08-17 05:55:57,864 - DEBUG - Source path: classifier/11222.jpg
+2024-08-17 05:55:57,864 - DEBUG - Destination path: training_set/11222.jpg
+2024-08-17 05:55:57,864 - INFO - Moved '11222.jpg' to 'training_set'
+2024-08-17 05:55:57,864 - INFO - Processing file: 11105.jpg
+2024-08-17 05:55:57,864 - DEBUG - Source path: classifier/11105.jpg
+2024-08-17 05:55:57,864 - DEBUG - Destination path: training_set/11105.jpg
+2024-08-17 05:55:57,865 - INFO - Moved '11105.jpg' to 'training_set'
+2024-08-17 05:55:57,865 - INFO - Processing file: 1143.jpg
+2024-08-17 05:55:57,865 - DEBUG - Source path: classifier/1143.jpg
+2024-08-17 05:55:57,865 - DEBUG - Destination path: training_set/1143.jpg
+2024-08-17 05:55:57,865 - INFO - Moved '1143.jpg' to 'training_set'
+2024-08-17 05:55:57,865 - INFO - Processing file: 11488.jpg
+2024-08-17 05:55:57,865 - DEBUG - Source path: classifier/11488.jpg
+2024-08-17 05:55:57,865 - DEBUG - Destination path: training_set/11488.jpg
+2024-08-17 05:55:57,865 - INFO - Moved '11488.jpg' to 'training_set'
+2024-08-17 05:55:57,865 - INFO - Processing file: 1141.jpg
+2024-08-17 05:55:57,865 - DEBUG - Source path: classifier/1141.jpg
+2024-08-17 05:55:57,865 - DEBUG - Destination path: training_set/1141.jpg
+2024-08-17 05:55:57,865 - INFO - Moved '1141.jpg' to 'training_set'
+2024-08-17 05:55:57,865 - INFO - Processing file: 11179.jpg
+2024-08-17 05:55:57,865 - DEBUG - Source path: classifier/11179.jpg
+2024-08-17 05:55:57,866 - DEBUG - Destination path: training_set/11179.jpg
+2024-08-17 05:55:57,866 - INFO - Moved '11179.jpg' to 'training_set'
+2024-08-17 05:55:57,866 - INFO - Processing file: 11242.jpg
+2024-08-17 05:55:57,866 - DEBUG - Source path: classifier/11242.jpg
+2024-08-17 05:55:57,866 - DEBUG - Destination path: training_set/11242.jpg
+2024-08-17 05:55:57,866 - INFO - Moved '11242.jpg' to 'training_set'
+2024-08-17 05:55:57,866 - INFO - Processing file: 11163.jpg
+2024-08-17 05:55:57,866 - DEBUG - Source path: classifier/11163.jpg
+2024-08-17 05:55:57,866 - DEBUG - Destination path: training_set/11163.jpg
+2024-08-17 05:55:57,866 - INFO - Moved '11163.jpg' to 'training_set'
+2024-08-17 05:55:57,866 - INFO - Processing file: 1136.jpg
+2024-08-17 05:55:57,866 - DEBUG - Source path: classifier/1136.jpg
+2024-08-17 05:55:57,866 - DEBUG - Destination path: training_set/1136.jpg
+2024-08-17 05:55:57,867 - INFO - Moved '1136.jpg' to 'training_set'
+2024-08-17 05:55:57,867 - INFO - Processing file: 11192.jpg
+2024-08-17 05:55:57,867 - DEBUG - Source path: classifier/11192.jpg
+2024-08-17 05:55:57,867 - DEBUG - Destination path: training_set/11192.jpg
+2024-08-17 05:55:57,867 - INFO - Moved '11192.jpg' to 'training_set'
+2024-08-17 05:55:57,867 - INFO - Processing file: 11174.jpg
+2024-08-17 05:55:57,868 - DEBUG - Source path: classifier/11174.jpg
+2024-08-17 05:55:57,868 - DEBUG - Destination path: training_set/11174.jpg
+2024-08-17 05:55:57,868 - INFO - Moved '11174.jpg' to 'training_set'
+2024-08-17 05:55:57,868 - INFO - Processing file: 11548.jpg
+2024-08-17 05:55:57,868 - DEBUG - Source path: classifier/11548.jpg
+2024-08-17 05:55:57,868 - DEBUG - Destination path: training_set/11548.jpg
+2024-08-17 05:55:57,868 - INFO - Moved '11548.jpg' to 'training_set'
+2024-08-17 05:55:57,869 - INFO - Processing file: 11575.jpg
+2024-08-17 05:55:57,869 - DEBUG - Source path: classifier/11575.jpg
+2024-08-17 05:55:57,869 - DEBUG - Destination path: training_set/11575.jpg
+2024-08-17 05:55:57,869 - INFO - Moved '11575.jpg' to 'training_set'
+2024-08-17 05:55:57,869 - INFO - Processing file: 11540.jpg
+2024-08-17 05:55:57,869 - DEBUG - Source path: classifier/11540.jpg
+2024-08-17 05:55:57,869 - DEBUG - Destination path: training_set/11540.jpg
+2024-08-17 05:55:57,869 - INFO - Moved '11540.jpg' to 'training_set'
+2024-08-17 05:55:57,870 - INFO - Processing file: 11615.jpg
+2024-08-17 05:55:57,870 - DEBUG - Source path: classifier/11615.jpg
+2024-08-17 05:55:57,870 - DEBUG - Destination path: training_set/11615.jpg
+2024-08-17 05:55:57,870 - INFO - Moved '11615.jpg' to 'training_set'
+2024-08-17 05:55:57,870 - INFO - Processing file: 11208.jpg
+2024-08-17 05:55:57,870 - DEBUG - Source path: classifier/11208.jpg
+2024-08-17 05:55:57,870 - DEBUG - Destination path: training_set/11208.jpg
+2024-08-17 05:55:57,871 - INFO - Moved '11208.jpg' to 'training_set'
+2024-08-17 05:55:57,871 - INFO - Processing file: 11214.jpg
+2024-08-17 05:55:57,871 - DEBUG - Source path: classifier/11214.jpg
+2024-08-17 05:55:57,871 - DEBUG - Destination path: training_set/11214.jpg
+2024-08-17 05:55:57,871 - INFO - Moved '11214.jpg' to 'training_set'
+2024-08-17 05:55:57,871 - INFO - Processing file: 11201.jpg
+2024-08-17 05:55:57,871 - DEBUG - Source path: classifier/11201.jpg
+2024-08-17 05:55:57,872 - DEBUG - Destination path: training_set/11201.jpg
+2024-08-17 05:55:57,872 - INFO - Moved '11201.jpg' to 'training_set'
+2024-08-17 05:55:57,872 - INFO - Processing file: 11589.jpg
+2024-08-17 05:55:57,872 - DEBUG - Source path: classifier/11589.jpg
+2024-08-17 05:55:57,872 - DEBUG - Destination path: training_set/11589.jpg
+2024-08-17 05:55:57,872 - INFO - Moved '11589.jpg' to 'training_set'
+2024-08-17 05:55:57,872 - INFO - Processing file: 11496.jpg
+2024-08-17 05:55:57,873 - DEBUG - Source path: classifier/11496.jpg
+2024-08-17 05:55:57,873 - DEBUG - Destination path: training_set/11496.jpg
+2024-08-17 05:55:57,873 - INFO - Moved '11496.jpg' to 'training_set'
+2024-08-17 05:55:57,873 - INFO - Processing file: 11596.jpg
+2024-08-17 05:55:57,873 - DEBUG - Source path: classifier/11596.jpg
+2024-08-17 05:55:57,873 - DEBUG - Destination path: training_set/11596.jpg
+2024-08-17 05:55:57,873 - INFO - Moved '11596.jpg' to 'training_set'
+2024-08-17 05:55:57,874 - INFO - Processing file: 11240.jpg
+2024-08-17 05:55:57,874 - DEBUG - Source path: classifier/11240.jpg
+2024-08-17 05:55:57,874 - DEBUG - Destination path: training_set/11240.jpg
+2024-08-17 05:55:57,874 - INFO - Moved '11240.jpg' to 'training_set'
+2024-08-17 05:55:57,874 - INFO - Processing file: 11230.jpg
+2024-08-17 05:55:57,874 - DEBUG - Source path: classifier/11230.jpg
+2024-08-17 05:55:57,875 - DEBUG - Destination path: training_set/11230.jpg
+2024-08-17 05:55:57,875 - INFO - Moved '11230.jpg' to 'training_set'
+2024-08-17 05:55:57,875 - INFO - Processing file: 11619.jpg
+2024-08-17 05:55:57,875 - DEBUG - Source path: classifier/11619.jpg
+2024-08-17 05:55:57,875 - DEBUG - Destination path: training_set/11619.jpg
+2024-08-17 05:55:57,875 - INFO - Moved '11619.jpg' to 'training_set'
+2024-08-17 05:55:57,875 - INFO - Processing file: 11564.jpg
+2024-08-17 05:55:57,876 - DEBUG - Source path: classifier/11564.jpg
+2024-08-17 05:55:57,876 - DEBUG - Destination path: training_set/11564.jpg
+2024-08-17 05:55:57,876 - INFO - Moved '11564.jpg' to 'training_set'
+2024-08-17 05:55:57,876 - INFO - Processing file: 11227.jpg
+2024-08-17 05:55:57,876 - DEBUG - Source path: classifier/11227.jpg
+2024-08-17 05:55:57,876 - DEBUG - Destination path: training_set/11227.jpg
+2024-08-17 05:55:57,876 - INFO - Moved '11227.jpg' to 'training_set'
+2024-08-17 05:55:57,877 - INFO - Processing file: 11167.jpg
+2024-08-17 05:55:57,877 - DEBUG - Source path: classifier/11167.jpg
+2024-08-17 05:55:57,877 - DEBUG - Destination path: training_set/11167.jpg
+2024-08-17 05:55:57,877 - INFO - Moved '11167.jpg' to 'training_set'
+2024-08-17 05:55:57,877 - INFO - Processing file: 11525.jpg
+2024-08-17 05:55:57,877 - DEBUG - Source path: classifier/11525.jpg
+2024-08-17 05:55:57,877 - DEBUG - Destination path: training_set/11525.jpg
+2024-08-17 05:55:57,878 - INFO - Moved '11525.jpg' to 'training_set'
+2024-08-17 05:55:57,878 - INFO - Processing file: 11577.jpg
+2024-08-17 05:55:57,878 - DEBUG - Source path: classifier/11577.jpg
+2024-08-17 05:55:57,878 - DEBUG - Destination path: training_set/11577.jpg
+2024-08-17 05:55:57,878 - INFO - Moved '11577.jpg' to 'training_set'
+2024-08-17 05:55:57,878 - INFO - Processing file: 11603.jpg
+2024-08-17 05:55:57,878 - DEBUG - Source path: classifier/11603.jpg
+2024-08-17 05:55:57,879 - DEBUG - Destination path: training_set/11603.jpg
+2024-08-17 05:55:57,879 - INFO - Moved '11603.jpg' to 'training_set'
+2024-08-17 05:55:57,879 - INFO - Processing file: 11574.jpg
+2024-08-17 05:55:57,879 - DEBUG - Source path: classifier/11574.jpg
+2024-08-17 05:55:57,879 - DEBUG - Destination path: training_set/11574.jpg
+2024-08-17 05:55:57,879 - INFO - Moved '11574.jpg' to 'training_set'
+2024-08-17 05:55:57,879 - INFO - Processing file: 11193.jpg
+2024-08-17 05:55:57,880 - DEBUG - Source path: classifier/11193.jpg
+2024-08-17 05:55:57,880 - DEBUG - Destination path: training_set/11193.jpg
+2024-08-17 05:55:57,880 - INFO - Moved '11193.jpg' to 'training_set'
+2024-08-17 05:55:57,880 - INFO - Processing file: 11580.jpg
+2024-08-17 05:55:57,880 - DEBUG - Source path: classifier/11580.jpg
+2024-08-17 05:55:57,880 - DEBUG - Destination path: training_set/11580.jpg
+2024-08-17 05:55:57,881 - INFO - Moved '11580.jpg' to 'training_set'
+2024-08-17 05:55:57,881 - INFO - Processing file: 11585.jpg
+2024-08-17 05:55:57,881 - DEBUG - Source path: classifier/11585.jpg
+2024-08-17 05:55:57,881 - DEBUG - Destination path: training_set/11585.jpg
+2024-08-17 05:55:57,881 - INFO - Moved '11585.jpg' to 'training_set'
+2024-08-17 05:55:57,881 - INFO - Processing file: 11584.jpg
+2024-08-17 05:55:57,881 - DEBUG - Source path: classifier/11584.jpg
+2024-08-17 05:55:57,881 - DEBUG - Destination path: training_set/11584.jpg
+2024-08-17 05:55:57,882 - INFO - Moved '11584.jpg' to 'training_set'
+2024-08-17 05:55:57,882 - INFO - Processing file: 11205.jpg
+2024-08-17 05:55:57,882 - DEBUG - Source path: classifier/11205.jpg
+2024-08-17 05:55:57,882 - DEBUG - Destination path: training_set/11205.jpg
+2024-08-17 05:55:57,882 - INFO - Moved '11205.jpg' to 'training_set'
+2024-08-17 05:55:57,882 - INFO - Processing file: 11155.jpg
+2024-08-17 05:55:57,882 - DEBUG - Source path: classifier/11155.jpg
+2024-08-17 05:55:57,883 - DEBUG - Destination path: training_set/11155.jpg
+2024-08-17 05:55:57,883 - INFO - Moved '11155.jpg' to 'training_set'
+2024-08-17 05:55:57,883 - INFO - Processing file: 11109.jpg
+2024-08-17 05:55:57,883 - DEBUG - Source path: classifier/11109.jpg
+2024-08-17 05:55:57,883 - DEBUG - Destination path: training_set/11109.jpg
+2024-08-17 05:55:57,883 - INFO - Moved '11109.jpg' to 'training_set'
+2024-08-17 05:55:57,883 - INFO - Processing file: 11511.jpg
+2024-08-17 05:55:57,884 - DEBUG - Source path: classifier/11511.jpg
+2024-08-17 05:55:57,884 - DEBUG - Destination path: training_set/11511.jpg
+2024-08-17 05:55:57,884 - INFO - Moved '11511.jpg' to 'training_set'
+2024-08-17 05:55:57,884 - INFO - Processing file: 11588.jpg
+2024-08-17 05:55:57,884 - DEBUG - Source path: classifier/11588.jpg
+2024-08-17 05:55:57,884 - DEBUG - Destination path: training_set/11588.jpg
+2024-08-17 05:55:57,885 - INFO - Moved '11588.jpg' to 'training_set'
+2024-08-17 05:55:57,885 - INFO - Processing file: 11617.jpg
+2024-08-17 05:55:57,885 - DEBUG - Source path: classifier/11617.jpg
+2024-08-17 05:55:57,885 - DEBUG - Destination path: training_set/11617.jpg
+2024-08-17 05:55:57,885 - INFO - Moved '11617.jpg' to 'training_set'
+2024-08-17 05:55:57,885 - INFO - Processing file: 11551.jpg
+2024-08-17 05:55:57,885 - DEBUG - Source path: classifier/11551.jpg
+2024-08-17 05:55:57,885 - DEBUG - Destination path: training_set/11551.jpg
+2024-08-17 05:55:57,886 - INFO - Moved '11551.jpg' to 'training_set'
+2024-08-17 05:55:57,886 - INFO - Processing file: 11130.jpg
+2024-08-17 05:55:57,886 - DEBUG - Source path: classifier/11130.jpg
+2024-08-17 05:55:57,886 - DEBUG - Destination path: training_set/11130.jpg
+2024-08-17 05:55:57,886 - INFO - Moved '11130.jpg' to 'training_set'
+2024-08-17 05:55:57,886 - INFO - Processing file: 11566.jpg
+2024-08-17 05:55:57,886 - DEBUG - Source path: classifier/11566.jpg
+2024-08-17 05:55:57,887 - DEBUG - Destination path: training_set/11566.jpg
+2024-08-17 05:55:57,887 - INFO - Moved '11566.jpg' to 'training_set'
+2024-08-17 05:55:57,887 - INFO - Processing file: 11210.jpg
+2024-08-17 05:55:57,887 - DEBUG - Source path: classifier/11210.jpg
+2024-08-17 05:55:57,887 - DEBUG - Destination path: training_set/11210.jpg
+2024-08-17 05:55:57,887 - INFO - Moved '11210.jpg' to 'training_set'
+2024-08-17 05:55:57,887 - INFO - Processing file: 11115.jpg
+2024-08-17 05:55:57,888 - DEBUG - Source path: classifier/11115.jpg
+2024-08-17 05:55:57,888 - DEBUG - Destination path: training_set/11115.jpg
+2024-08-17 05:55:57,888 - INFO - Moved '11115.jpg' to 'training_set'
+2024-08-17 05:55:57,888 - INFO - Processing file: 11478.jpg
+2024-08-17 05:55:57,888 - DEBUG - Source path: classifier/11478.jpg
+2024-08-17 05:55:57,888 - DEBUG - Destination path: training_set/11478.jpg
+2024-08-17 05:55:57,888 - INFO - Moved '11478.jpg' to 'training_set'
+2024-08-17 05:55:57,889 - INFO - Processing file: 11485.jpg
+2024-08-17 05:55:57,889 - DEBUG - Source path: classifier/11485.jpg
+2024-08-17 05:55:57,889 - DEBUG - Destination path: training_set/11485.jpg
+2024-08-17 05:55:57,889 - INFO - Moved '11485.jpg' to 'training_set'
+2024-08-17 05:55:57,889 - INFO - Processing file: 11549.jpg
+2024-08-17 05:55:57,889 - DEBUG - Source path: classifier/11549.jpg
+2024-08-17 05:55:57,889 - DEBUG - Destination path: training_set/11549.jpg
+2024-08-17 05:55:57,890 - INFO - Moved '11549.jpg' to 'training_set'
+2024-08-17 05:55:57,890 - INFO - Processing file: 1150.jpg
+2024-08-17 05:55:57,890 - DEBUG - Source path: classifier/1150.jpg
+2024-08-17 05:55:57,890 - DEBUG - Destination path: training_set/1150.jpg
+2024-08-17 05:55:57,890 - INFO - Moved '1150.jpg' to 'training_set'
+2024-08-17 05:55:57,890 - INFO - Processing file: 11224.jpg
+2024-08-17 05:55:57,890 - DEBUG - Source path: classifier/11224.jpg
+2024-08-17 05:55:57,891 - DEBUG - Destination path: training_set/11224.jpg
+2024-08-17 05:55:57,891 - INFO - Moved '11224.jpg' to 'training_set'
+2024-08-17 05:55:57,891 - INFO - Processing file: 11520.jpg
+2024-08-17 05:55:57,891 - DEBUG - Source path: classifier/11520.jpg
+2024-08-17 05:55:57,891 - DEBUG - Destination path: training_set/11520.jpg
+2024-08-17 05:55:57,891 - INFO - Moved '11520.jpg' to 'training_set'
+2024-08-17 05:55:57,892 - INFO - Processing file: 11501.jpg
+2024-08-17 05:55:57,892 - DEBUG - Source path: classifier/11501.jpg
+2024-08-17 05:55:57,892 - DEBUG - Destination path: training_set/11501.jpg
+2024-08-17 05:55:57,892 - INFO - Moved '11501.jpg' to 'training_set'
+2024-08-17 05:55:57,892 - INFO - Processing file: 11593.jpg
+2024-08-17 05:55:57,892 - DEBUG - Source path: classifier/11593.jpg
+2024-08-17 05:55:57,892 - DEBUG - Destination path: training_set/11593.jpg
+2024-08-17 05:55:57,893 - INFO - Moved '11593.jpg' to 'training_set'
+2024-08-17 05:55:57,893 - INFO - Processing file: 11572.jpg
+2024-08-17 05:55:57,893 - DEBUG - Source path: classifier/11572.jpg
+2024-08-17 05:55:57,893 - DEBUG - Destination path: training_set/11572.jpg
+2024-08-17 05:55:57,893 - INFO - Moved '11572.jpg' to 'training_set'
+2024-08-17 05:55:57,893 - INFO - Processing file: 11481.jpg
+2024-08-17 05:55:57,893 - DEBUG - Source path: classifier/11481.jpg
+2024-08-17 05:55:57,894 - DEBUG - Destination path: training_set/11481.jpg
+2024-08-17 05:55:57,894 - INFO - Moved '11481.jpg' to 'training_set'
+2024-08-17 05:55:57,894 - INFO - Processing file: 11126.jpg
+2024-08-17 05:55:57,894 - DEBUG - Source path: classifier/11126.jpg
+2024-08-17 05:55:57,894 - DEBUG - Destination path: training_set/11126.jpg
+2024-08-17 05:55:57,894 - INFO - Moved '11126.jpg' to 'training_set'
+2024-08-17 05:55:57,894 - INFO - Processing file: 11166.jpg
+2024-08-17 05:55:57,895 - DEBUG - Source path: classifier/11166.jpg
+2024-08-17 05:55:57,895 - DEBUG - Destination path: training_set/11166.jpg
+2024-08-17 05:55:57,895 - INFO - Moved '11166.jpg' to 'training_set'
+2024-08-17 05:55:57,895 - INFO - Processing file: 11538.jpg
+2024-08-17 05:55:57,895 - DEBUG - Source path: classifier/11538.jpg
+2024-08-17 05:55:57,895 - DEBUG - Destination path: training_set/11538.jpg
+2024-08-17 05:55:57,895 - INFO - Moved '11538.jpg' to 'training_set'
+2024-08-17 05:55:57,896 - INFO - Processing file: 1130.jpg
+2024-08-17 05:55:57,896 - DEBUG - Source path: classifier/1130.jpg
+2024-08-17 05:55:57,896 - DEBUG - Destination path: training_set/1130.jpg
+2024-08-17 05:55:57,896 - INFO - Moved '1130.jpg' to 'training_set'
+2024-08-17 05:55:57,896 - INFO - Processing file: 1125.jpg
+2024-08-17 05:55:57,896 - DEBUG - Source path: classifier/1125.jpg
+2024-08-17 05:55:57,896 - DEBUG - Destination path: training_set/1125.jpg
+2024-08-17 05:55:57,897 - INFO - Moved '1125.jpg' to 'training_set'
+2024-08-17 05:55:57,897 - INFO - Processing file: 11500.jpg
+2024-08-17 05:55:57,897 - DEBUG - Source path: classifier/11500.jpg
+2024-08-17 05:55:57,897 - DEBUG - Destination path: training_set/11500.jpg
+2024-08-17 05:55:57,897 - INFO - Moved '11500.jpg' to 'training_set'
+2024-08-17 05:55:57,897 - INFO - Processing file: 11517.jpg
+2024-08-17 05:55:57,897 - DEBUG - Source path: classifier/11517.jpg
+2024-08-17 05:55:57,898 - DEBUG - Destination path: training_set/11517.jpg
+2024-08-17 05:55:57,898 - INFO - Moved '11517.jpg' to 'training_set'
+2024-08-17 05:55:57,898 - INFO - Processing file: 11123.jpg
+2024-08-17 05:55:57,898 - DEBUG - Source path: classifier/11123.jpg
+2024-08-17 05:55:57,898 - DEBUG - Destination path: training_set/11123.jpg
+2024-08-17 05:55:57,898 - INFO - Moved '11123.jpg' to 'training_set'
+2024-08-17 05:55:57,898 - INFO - Processing file: 11147.jpg
+2024-08-17 05:55:57,899 - DEBUG - Source path: classifier/11147.jpg
+2024-08-17 05:55:57,899 - DEBUG - Destination path: training_set/11147.jpg
+2024-08-17 05:55:57,899 - INFO - Moved '11147.jpg' to 'training_set'
+2024-08-17 05:55:57,899 - INFO - Processing file: 11531.jpg
+2024-08-17 05:55:57,899 - DEBUG - Source path: classifier/11531.jpg
+2024-08-17 05:55:57,899 - DEBUG - Destination path: training_set/11531.jpg
+2024-08-17 05:55:57,900 - INFO - Moved '11531.jpg' to 'training_set'
+2024-08-17 05:55:57,900 - INFO - Processing file: 1113.jpg
+2024-08-17 05:55:57,900 - DEBUG - Source path: classifier/1113.jpg
+2024-08-17 05:55:57,900 - DEBUG - Destination path: training_set/1113.jpg
+2024-08-17 05:55:57,900 - INFO - Moved '1113.jpg' to 'training_set'
+2024-08-17 05:55:57,900 - INFO - Processing file: 11216.jpg
+2024-08-17 05:55:57,901 - DEBUG - Source path: classifier/11216.jpg
+2024-08-17 05:55:57,901 - DEBUG - Destination path: training_set/11216.jpg
+2024-08-17 05:55:57,901 - INFO - Moved '11216.jpg' to 'training_set'
+2024-08-17 05:55:57,901 - INFO - Processing file: 1119.jpg
+2024-08-17 05:55:57,901 - DEBUG - Source path: classifier/1119.jpg
+2024-08-17 05:55:57,901 - DEBUG - Destination path: training_set/1119.jpg
+2024-08-17 05:55:57,901 - INFO - Moved '1119.jpg' to 'training_set'
+2024-08-17 05:55:57,902 - INFO - Processing file: 11145.jpg
+2024-08-17 05:55:57,902 - DEBUG - Source path: classifier/11145.jpg
+2024-08-17 05:55:57,902 - DEBUG - Destination path: training_set/11145.jpg
+2024-08-17 05:55:57,902 - INFO - Moved '11145.jpg' to 'training_set'
+2024-08-17 05:55:57,902 - INFO - Processing file: 11573.jpg
+2024-08-17 05:55:57,902 - DEBUG - Source path: classifier/11573.jpg
+2024-08-17 05:55:57,902 - DEBUG - Destination path: training_set/11573.jpg
+2024-08-17 05:55:57,903 - INFO - Moved '11573.jpg' to 'training_set'
+2024-08-17 05:55:57,903 - INFO - Processing file: 11121.jpg
+2024-08-17 05:55:57,903 - DEBUG - Source path: classifier/11121.jpg
+2024-08-17 05:55:57,903 - DEBUG - Destination path: training_set/11121.jpg
+2024-08-17 05:55:57,903 - INFO - Moved '11121.jpg' to 'training_set'
+2024-08-17 05:55:57,903 - INFO - Processing file: 11521.jpg
+2024-08-17 05:55:57,903 - DEBUG - Source path: classifier/11521.jpg
+2024-08-17 05:55:57,904 - DEBUG - Destination path: training_set/11521.jpg
+2024-08-17 05:55:57,904 - INFO - Moved '11521.jpg' to 'training_set'
+2024-08-17 05:55:57,904 - INFO - Processing file: 11172.jpg
+2024-08-17 05:55:57,904 - DEBUG - Source path: classifier/11172.jpg
+2024-08-17 05:55:57,904 - DEBUG - Destination path: training_set/11172.jpg
+2024-08-17 05:55:57,904 - INFO - Moved '11172.jpg' to 'training_set'
+2024-08-17 05:55:57,904 - INFO - Processing file: 11195.jpg
+2024-08-17 05:55:57,905 - DEBUG - Source path: classifier/11195.jpg
+2024-08-17 05:55:57,905 - DEBUG - Destination path: training_set/11195.jpg
+2024-08-17 05:55:57,905 - INFO - Moved '11195.jpg' to 'training_set'
+2024-08-17 05:55:57,905 - INFO - Processing file: 11546.jpg
+2024-08-17 05:55:57,905 - DEBUG - Source path: classifier/11546.jpg
+2024-08-17 05:55:57,905 - DEBUG - Destination path: training_set/11546.jpg
+2024-08-17 05:55:57,905 - INFO - Moved '11546.jpg' to 'training_set'
+2024-08-17 05:55:57,906 - INFO - Processing file: 11153.jpg
+2024-08-17 05:55:57,906 - DEBUG - Source path: classifier/11153.jpg
+2024-08-17 05:55:57,906 - DEBUG - Destination path: training_set/11153.jpg
+2024-08-17 05:55:57,906 - INFO - Moved '11153.jpg' to 'training_set'
+2024-08-17 05:55:57,906 - INFO - Processing file: 1158.jpg
+2024-08-17 05:55:57,906 - DEBUG - Source path: classifier/1158.jpg
+2024-08-17 05:55:57,906 - DEBUG - Destination path: training_set/1158.jpg
+2024-08-17 05:55:57,907 - INFO - Moved '1158.jpg' to 'training_set'
+2024-08-17 05:55:57,910 - INFO - Processing file: 11170.jpg
+2024-08-17 05:55:57,910 - DEBUG - Source path: classifier/11170.jpg
+2024-08-17 05:55:57,910 - DEBUG - Destination path: training_set/11170.jpg
+2024-08-17 05:55:57,910 - INFO - Moved '11170.jpg' to 'training_set'
+2024-08-17 05:55:57,911 - INFO - Processing file: 11120.jpg
+2024-08-17 05:55:57,911 - DEBUG - Source path: classifier/11120.jpg
+2024-08-17 05:55:57,911 - DEBUG - Destination path: training_set/11120.jpg
+2024-08-17 05:55:57,911 - INFO - Moved '11120.jpg' to 'training_set'
+2024-08-17 05:55:57,911 - INFO - Processing file: 11135.jpg
+2024-08-17 05:55:57,911 - DEBUG - Source path: classifier/11135.jpg
+2024-08-17 05:55:57,911 - DEBUG - Destination path: training_set/11135.jpg
+2024-08-17 05:55:57,912 - INFO - Moved '11135.jpg' to 'training_set'
+2024-08-17 05:55:57,912 - INFO - Processing file: 1114.jpg
+2024-08-17 05:55:57,912 - DEBUG - Source path: classifier/1114.jpg
+2024-08-17 05:55:57,912 - DEBUG - Destination path: training_set/1114.jpg
+2024-08-17 05:55:57,912 - INFO - Moved '1114.jpg' to 'training_set'
+2024-08-17 05:55:57,912 - INFO - Processing file: 1123.jpg
+2024-08-17 05:55:57,912 - DEBUG - Source path: classifier/1123.jpg
+2024-08-17 05:55:57,913 - DEBUG - Destination path: training_set/1123.jpg
+2024-08-17 05:55:57,913 - INFO - Moved '1123.jpg' to 'training_set'
+2024-08-17 05:55:57,913 - INFO - Processing file: 11509.jpg
+2024-08-17 05:55:57,913 - DEBUG - Source path: classifier/11509.jpg
+2024-08-17 05:55:57,913 - DEBUG - Destination path: training_set/11509.jpg
+2024-08-17 05:55:57,913 - INFO - Moved '11509.jpg' to 'training_set'
+2024-08-17 05:55:57,913 - INFO - Processing file: 11576.jpg
+2024-08-17 05:55:57,914 - DEBUG - Source path: classifier/11576.jpg
+2024-08-17 05:55:57,914 - DEBUG - Destination path: training_set/11576.jpg
+2024-08-17 05:55:57,914 - INFO - Moved '11576.jpg' to 'training_set'
+2024-08-17 05:55:57,914 - INFO - Processing file: 11607.jpg
+2024-08-17 05:55:57,914 - DEBUG - Source path: classifier/11607.jpg
+2024-08-17 05:55:57,914 - DEBUG - Destination path: training_set/11607.jpg
+2024-08-17 05:55:57,914 - INFO - Moved '11607.jpg' to 'training_set'
+2024-08-17 05:55:57,915 - INFO - Processing file: 11159.jpg
+2024-08-17 05:55:57,915 - DEBUG - Source path: classifier/11159.jpg
+2024-08-17 05:55:57,915 - DEBUG - Destination path: training_set/11159.jpg
+2024-08-17 05:55:57,915 - INFO - Moved '11159.jpg' to 'training_set'
+2024-08-17 05:55:57,915 - INFO - Processing file: 11527.jpg
+2024-08-17 05:55:57,915 - DEBUG - Source path: classifier/11527.jpg
+2024-08-17 05:55:57,915 - DEBUG - Destination path: training_set/11527.jpg
+2024-08-17 05:55:57,916 - INFO - Moved '11527.jpg' to 'training_set'
+2024-08-17 05:55:57,916 - INFO - Image processing completed.
